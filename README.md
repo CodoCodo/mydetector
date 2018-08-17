@@ -1,0 +1,2 @@
+# mydetector
+detect sth
